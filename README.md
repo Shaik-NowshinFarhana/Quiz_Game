@@ -38,9 +38,13 @@ An interactive, quiz game built using **Streamlit**, featuring:
 
 
 🧑‍💻 Developed With
-      Streamlit
-      MongoDB
-      Pandas
+    Streamlit
+
+     
+   MongoDB
+
+      
+   Pandas
       
 
 Run using the command:- streamlit run Quiz_Game.py
